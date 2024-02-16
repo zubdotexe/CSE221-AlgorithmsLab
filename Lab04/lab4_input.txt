@@ -1,0 +1,10 @@
+M: monkeys 
+W: wearing 
+C: coats 
+A: are 
+D: doctors 
+B: because
+O: of
+E: evolution
+R: results
+P: eruption
